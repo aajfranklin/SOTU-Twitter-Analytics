@@ -8,7 +8,7 @@ This repository contains Jupyter Notebook files created for a study on the real-
 
 The study gathered roughly 275,000 unique, English-language tweets with the hashtag "#sotu" made during the State of the Union address. 
 
-Natural Language Processing techniques were used to infer the gender and location of users. Sentiment analysis was conducted to apply each tweet with a polarity and subjectivity score. Machine learning (K-Means clustering) and data analysis methods were used to analyse how reception of the speech varied by gender and location.
+Natural Language Processing techniques were used to infer the gender and location of users. Sentiment analysis was conducted to apply each tweet with a polarity and subjectivity score. Machine learning (K-Means clustering) and data analysis methods were used to determine how reception of the speech varied by gender and location.
 
 **Conclusions**
 
