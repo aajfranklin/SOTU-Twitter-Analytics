@@ -2,7 +2,7 @@
 
 **Background**
 
-This repository contains Jupyter Notebook files created for a study on the real-time reception of the 2018 State of the Union address on Twitter. The repositories are presented to demonstrate code written for the project and the methods adopted. Files necessary to run these notebooks are not included.
+This repository contains Jupyter Notebook files created for a study on the real-time reception of the 2018 State of the Union address on Twitter. The notebooks are presented to demonstrate code written for the project and the methods adopted. Files necessary to run these notebooks are not included.
 
 **Aims and Method**
 
